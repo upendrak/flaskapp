@@ -1,4 +1,4 @@
-# Flask App Template for Insight
+# Deploying a Flask application in Heroku: An end-to-end tutorial
 
 Run with `./run.py`
 
