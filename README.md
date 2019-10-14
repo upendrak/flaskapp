@@ -1,4 +1,4 @@
-# Deploying a Flask application in Heroku: An end-to-end tutorial
+# Deploying a Flask application in Heroku cloud: An end-to-end tutorial
 
 Run with `./run.py`
 
